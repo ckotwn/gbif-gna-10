@@ -1,0 +1,233 @@
+name_code	kingdom	phylum	class	order	family	genus	specificEpithet	infraspecificEpithet	scientificNameAuthorship	scientificName	taxonRank
+201093	Plantae	Coniferophyta	Pinopsida	Taxales	Taxaceae	Amentotaxus	formosana		Li, 1952	Amentotaxus formosana  Li, 1952	species
+201098	Plantae	Coniferophyta	Pinopsida	Pinales	Cupressaceae	Juniperus	chinensis	taiwanensis	L.	Juniperus chinensis taiwanensis L.	subspecies
+201103	Plantae	Coniferophyta	Pinopsida	Pinales	Pinaceae	Keteleeria	davidiana	formosana	(Franchet) Beissner	Keteleeria davidiana formosana (Franchet) Beissner	subspecies
+203293	Plantae	Magnoliophyta	Magnoliopsida	Fagales	Fagaceae	Fagus	hayatae		Palib. ex Hayata, 1911	Fagus hayatae  Palib. ex Hayata, 1911	species
+203782	Plantae	Magnoliophyta	Magnoliopsida	Myrtales	Onagraceae	Epilobium	nankotaizanense		Yamamoto, 1926	Epilobium nankotaizanense  Yamamoto, 1926	species
+310883	Animalia	Arthropoda	Malacostraca	Decapoda	Coenobitidae	Birgus	latro		(Linnaeus, 1767)	Birgus latro  (Linnaeus, 1767)	species
+330019	Animalia	Arthropoda	Insecta	Hemiptera	Cicadidae	Formotosena	seebohmi		(Distant, 1904)	Formotosena seebohmi  (Distant, 1904)	species
+330463	Animalia	Arthropoda	Insecta	Coleoptera	Buprestidae	Buprestis (Akiyamaia)	mirabilis		Kurosawa, 1969	Buprestis (Akiyamaia) mirabilis  Kurosawa, 1969	species
+332967	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Kashotonus	multipunctatus		Kôno, 1942b	Kashotonus multipunctatus  Kôno, 1942b	species
+333007	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Pachyrrhynchus	insularis		Kano, 1929	Pachyrrhynchus insularis  Kano, 1929	species
+333008	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Pachyrrhynchus	sonani		Kôono, 1930	Pachyrrhynchus sonani  Kôono, 1930	species
+333009	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Pachyrrhynchus	yamianus		Kano, 1929	Pachyrrhynchus yamianus  Kano, 1929	species
+333011	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Pachyrrhynchus	kotoensis		Kôno, 1930	Pachyrrhynchus kotoensis  Kôno, 1930	species
+333012	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Pachyrrhynchus	tobafolius		Kano, 1929	Pachyrrhynchus tobafolius  Kano, 1929	species
+333223	Animalia	Arthropoda	Insecta	Coleoptera	Elateridae	Campsosternus	watanabei		Miwa, 1927	Campsosternus watanabei  Miwa, 1927	species
+333823	Animalia	Arthropoda	Insecta	Coleoptera	Lampyridae	Luciola	hydrophila		Jeng, Lai & Yang 2003	Luciola hydrophila  Jeng, Lai & Yang 2003	species
+333826	Animalia	Arthropoda	Insecta	Coleoptera	Lampyridae	Pristolycus	kanoi		Nakane, 1968	Pristolycus kanoi  Nakane, 1968	species
+333940	Animalia	Arthropoda	Insecta	Coleoptera	Lucanidae	Dorcus	formosanus		Miwa, 1929	Dorcus formosanus  Miwa, 1929	species
+333944	Animalia	Arthropoda	Insecta	Coleoptera	Lucanidae	Dorcus	schenkingi		Mollenkamp, 1913	Dorcus schenkingi  Mollenkamp, 1913	species
+334538	Animalia	Arthropoda	Insecta	Coleoptera	Scarabaeidae	Cheirotonus	formosanus		Ohaus, 1913	Cheirotonus formosanus  Ohaus, 1913	species
+347195	Animalia	Arthropoda	Insecta	Lepidoptera	Nymphalidae	Sasakia	charonda	formosana	Shirôzu, 1963	Sasakia charonda formosana Shirôzu, 1963	subspecies
+347269	Animalia	Arthropoda	Insecta	Lepidoptera	Papilionidae	Agehana	maraho		(Shiraki & Sonan, 1934)	Agehana maraho  (Shiraki & Sonan, 1934)	species
+347270	Animalia	Arthropoda	Insecta	Lepidoptera	Papilionidae	Atrophaneura	horishana		(Matsumura, 1910)	Atrophaneura horishana  (Matsumura, 1910)	species
+347305	Animalia	Arthropoda	Insecta	Lepidoptera	Papilionidae	Troides	aeacus	formosanus	(Rothschild, 1899)	Troides aeacus formosanus (Rothschild, 1899)	subspecies
+347308	Animalia	Arthropoda	Insecta	Lepidoptera	Papilionidae	Troides	magellanus	sonani	Matsumura, 1932	Troides magellanus sonani Matsumura, 1932	subspecies
+348239	Animalia	Arthropoda	Insecta	Odonata	Cordulegastridae	Anotogaster	sieboldii		(Selys, 1854)	Anotogaster sieboldii  (Selys, 1854)	species
+348436	Animalia	Arthropoda	Insecta	Phasmida	Phasmatidae	Megacrania	tsudai		Shiraki, 1932	Megacrania tsudai  Shiraki, 1932	species
+380048	Animalia	Chordata	Amphibia	Anura	Rhacophoridae	Rhacophorus	arvalis		Lue, Lai, & Chen, 1995	Rhacophorus arvalis  Lue, Lai, & Chen, 1995	species
+380049	Animalia	Chordata	Amphibia	Anura	Rhacophoridae	Rhacophorus	aurantiventris		Lue, Lai, & Chen, 1994	Rhacophorus aurantiventris  Lue, Lai, & Chen, 1994	species
+380051	Animalia	Chordata	Amphibia	Anura	Rhacophoridae	Rhacophorus	prasinatus		Mou, Risch, & Lue, 1983	Rhacophorus prasinatus  Mou, Risch, & Lue, 1983	species
+380052	Animalia	Chordata	Amphibia	Anura	Rhacophoridae	Rhacophorus	taipeianus		Liang & Wang, 1978	Rhacophorus taipeianus  Liang & Wang, 1978	species
+380053	Animalia	Chordata	Amphibia	Caudata	Hynobiidae	Hynobius	arisanensis		Maki, 1922	Hynobius arisanensis  Maki, 1922	species
+380054	Animalia	Chordata	Amphibia	Caudata	Hynobiidae	Hynobius	formosanus		Maki, 1922	Hynobius formosanus  Maki, 1922	species
+380055	Animalia	Chordata	Amphibia	Caudata	Hynobiidae	Hynobius	sonani		(Maki, 1922)	Hynobius sonani  (Maki, 1922)	species
+380056	Animalia	Chordata	Aves	Anseriformes	Anatidae	Aix	galericulata		(Linnaeus, 1758)	Aix galericulata  (Linnaeus, 1758)	species
+380062	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anas	formosa		Georgi, 1775	Anas formosa  Georgi, 1775	species
+380096	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Accipiter	gentilis	fujiyamae	(Linnaeus, 1758)	Accipiter gentilis fujiyamae (Linnaeus, 1758)	subspecies
+380097	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Accipiter	gularis	gularis	(Temminck & Schlegel, 1844)	Accipiter gularis gularis (Temminck & Schlegel, 1844)	subspecies
+380098	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Accipiter	nisus	nisosimilis	(Linnaeus, 1758)	Accipiter nisus nisosimilis (Linnaeus, 1758)	subspecies
+380099	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Accipiter	soloensis		(Horsfield, 1821)	Accipiter soloensis  (Horsfield, 1821)	species
+380100	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Accipiter	trivirgatus	formosae	(Temminck, 1824)	Accipiter trivirgatus formosae (Temminck, 1824)	subspecies
+380101	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Accipiter	virgatus	fuscipectus	(Temminck, 1822)	Accipiter virgatus fuscipectus (Temminck, 1822)	subspecies
+380102	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Aegypius	monachus		(Linnaeus, 1766)	Aegypius monachus  (Linnaeus, 1766)	species
+380103	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Aquila	clanga		Pallas, 1811	Aquila clanga  Pallas, 1811	species
+380104	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Aquila	heliaca		Savigny, 1809	Aquila heliaca  Savigny, 1809	species
+380105	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Butastur	indicus		(J. F. Gmelin, 1788)	Butastur indicus  (J. F. Gmelin, 1788)	species
+380106	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Buteo	buteo	japonicus	(Linnaeus, 1758)	Buteo buteo japonicus (Linnaeus, 1758)	subspecies
+380107	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Buteo	lagopus	menzbieri	(Pontoppidan, 1763)	Buteo lagopus menzbieri (Pontoppidan, 1763)	subspecies
+380108	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Circus	cyaneus	cyaneus	(Linnaeus, 1766)	Circus cyaneus cyaneus (Linnaeus, 1766)	subspecies
+380109	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Circus	melanoleucos		(Pennant, 1769)	Circus melanoleucos  (Pennant, 1769)	species
+380110	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Circus	spilonotus	spilonotus	Kaup, 1847	Circus spilonotus spilonotus Kaup, 1847	subspecies
+380111	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Haliaeetus	albicilla	albicilla	(Linnaeus, 1758)	Haliaeetus albicilla albicilla (Linnaeus, 1758)	subspecies
+380112	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Haliaeetus	leucogaster		(J. F. Gmelin, 1788)	Haliaeetus leucogaster  (J. F. Gmelin, 1788)	species
+380113	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Ictinaetus	malayensis	malayensis	(Temminck, 1822)	Ictinaetus malayensis malayensis (Temminck, 1822)	subspecies
+380115	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Pandion	haliaetus	haliaetus	(Linnaeus, 1758)	Pandion haliaetus haliaetus (Linnaeus, 1758)	subspecies
+380117	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Spilornis	cheela	hoya	(Latham, 1790)	Spilornis cheela hoya (Latham, 1790)	subspecies
+380118	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Spizaetus	nipalensis	nipalensis	(Hodgson, 1836)	Spizaetus nipalensis nipalensis (Hodgson, 1836)	subspecies
+380128	Animalia	Chordata	Aves	Ciconiiformes	Ardeidae	Egretta	eulophotes		(Swinhoe, 1860)	Egretta eulophotes  (Swinhoe, 1860)	species
+380132	Animalia	Chordata	Aves	Ciconiiformes	Ardeidae	Gorsachius	goisagi		(Temminck, 1835)	Gorsachius goisagi  (Temminck, 1835)	species
+380153	Animalia	Chordata	Aves	Ciconiiformes	Ciconiidae	Ciconia	nigra		(Linnaeus, 1758)	Ciconia nigra  (Linnaeus, 1758)	species
+380154	Animalia	Chordata	Aves	Ciconiiformes	Falconidae	Falco	columbarius	insignis	Linnaeus, 1758	Falco columbarius insignis Linnaeus, 1758	subspecies
+380155	Animalia	Chordata	Aves	Ciconiiformes	Falconidae	Falco	peregrinus	calidus	Tunstall, 1771	Falco peregrinus calidus Tunstall, 1771	subspecies
+380156	Animalia	Chordata	Aves	Ciconiiformes	Falconidae	Falco	subbuteo	subbuteo	Linnaeus, 1758	Falco subbuteo subbuteo Linnaeus, 1758	subspecies
+380157	Animalia	Chordata	Aves	Ciconiiformes	Falconidae	Falco	tinnunculus	tinnunculus	Linnaeus, 1758	Falco tinnunculus tinnunculus Linnaeus, 1758	subspecies
+380162	Animalia	Chordata	Aves	Ciconiiformes	Glareolidae	Glareola	maldivarum		Forster, 1795	Glareola maldivarum  Forster, 1795	species
+380163	Animalia	Chordata	Aves	Ciconiiformes	Jacanidae	Hydrophasianus	chirurgus		(Scopoli, 1786)	Hydrophasianus chirurgus  (Scopoli, 1786)	species
+380164	Animalia	Chordata	Aves	Ciconiiformes	Laridae	Anous	stolidus	pileatus	(Linnaeus, 1758)	Anous stolidus pileatus (Linnaeus, 1758)	subspecies
+380174	Animalia	Chordata	Aves	Ciconiiformes	Laridae	Larus	saundersi		(Swinhoe, 1871)	Larus saundersi  (Swinhoe, 1871)	species
+380178	Animalia	Chordata	Aves	Ciconiiformes	Laridae	Sterna	albifrons	sinensis	Pallas, 1764	Sterna albifrons sinensis Pallas, 1764	subspecies
+380179	Animalia	Chordata	Aves	Ciconiiformes	Laridae	Sterna	anaethetus	anaethetus	Scopoli, 1786	Sterna anaethetus anaethetus Scopoli, 1786	subspecies
+380180	Animalia	Chordata	Aves	Ciconiiformes	Laridae	Sterna	bergii	cristata	Lichtenstein, 1823	Sterna bergii cristata Lichtenstein, 1823	subspecies
+380182	Animalia	Chordata	Aves	Ciconiiformes	Laridae	Sterna	dougallii	bangsi	Montagu, 1813	Sterna dougallii bangsi Montagu, 1813	subspecies
+380186	Animalia	Chordata	Aves	Ciconiiformes	Laridae	Sterna	sumatrana	sumatrana	Raffles, 1822	Sterna sumatrana sumatrana Raffles, 1822	subspecies
+380210	Animalia	Chordata	Aves	Ciconiiformes	Rostratulidae	Rostratula	benghalensis	benghalensis	(Linnaeus, 1758)	Rostratula benghalensis benghalensis (Linnaeus, 1758)	subspecies
+380223	Animalia	Chordata	Aves	Ciconiiformes	Scolopacidae	Eurynorhynchus	pygmeus		(Linnaeus, 1758)	Eurynorhynchus pygmeus  (Linnaeus, 1758)	species
+380225	Animalia	Chordata	Aves	Ciconiiformes	Scolopacidae	Gallinago	hardwickii		(Gray, 1831)	Gallinago hardwickii  (Gray, 1831)	species
+380230	Animalia	Chordata	Aves	Ciconiiformes	Scolopacidae	Limnodromus	semipalmatus		(Blyth, 1848)	Limnodromus semipalmatus  (Blyth, 1848)	species
+380235	Animalia	Chordata	Aves	Ciconiiformes	Scolopacidae	Numenius	arquata	orientalis	(Linnaeus, 1758)	Numenius arquata orientalis (Linnaeus, 1758)	subspecies
+380248	Animalia	Chordata	Aves	Ciconiiformes	Scolopacidae	Tringa	guttifer		(Nordmann, 1835)	Tringa guttifer  (Nordmann, 1835)	species
+380257	Animalia	Chordata	Aves	Ciconiiformes	Threskiornithidae	Nipponia	nippon		(Temminck, 1835)	Nipponia nippon  (Temminck, 1835)	species
+380258	Animalia	Chordata	Aves	Ciconiiformes	Threskiornithidae	Platalea	leucorodia	leucorodia	Linnaeus, 1758	Platalea leucorodia leucorodia Linnaeus, 1758	subspecies
+380259	Animalia	Chordata	Aves	Ciconiiformes	Threskiornithidae	Platalea	minor		Temminck & Schlegel, 1849	Platalea minor  Temminck & Schlegel, 1849	species
+380260	Animalia	Chordata	Aves	Ciconiiformes	Threskiornithidae	Threskiornis	melanocephalus		(Latham, 1790)	Threskiornis melanocephalus  (Latham, 1790)	species
+380270	Animalia	Chordata	Aves	Columbiformes	Columbidae	Treron	formosae	formosae	Swinhoe, 1863	Treron formosae formosae Swinhoe, 1863	subspecies
+380285	Animalia	Chordata	Aves	Galliformes	Phasianidae	Arborophila	crudigularis		(Swinhoe, 1864)	Arborophila crudigularis  (Swinhoe, 1864)	species
+380287	Animalia	Chordata	Aves	Galliformes	Phasianidae	Coturnix	chinensis		(Linnaeus, 1766)	Coturnix chinensis  (Linnaeus, 1766)	species
+380289	Animalia	Chordata	Aves	Galliformes	Phasianidae	Lophura	swinhoii		(Gould, 1863)	Lophura swinhoii  (Gould, 1863)	species
+380290	Animalia	Chordata	Aves	Galliformes	Phasianidae	Phasianus	colchicus	formosanus	Linnaeus, 1758	Phasianus colchicus formosanus Linnaeus, 1758	subspecies
+380291	Animalia	Chordata	Aves	Galliformes	Phasianidae	Syrmaticus	mikado		(Ogilvie-Grant, 1906)	Syrmaticus mikado  (Ogilvie-Grant, 1906)	species
+380292	Animalia	Chordata	Aves	Gruiformes	Gruidae	Grus	grus	lilfordi	(Linnaeus, 1758)	Grus grus lilfordi (Linnaeus, 1758)	subspecies
+380293	Animalia	Chordata	Aves	Gruiformes	Gruidae	Grus	japonensis		(Statius Müller, 1776)	Grus japonensis  (Statius Müller, 1776)	species
+380294	Animalia	Chordata	Aves	Gruiformes	Gruidae	Grus	monacha		Temminck, 1835	Grus monacha  Temminck, 1835	species
+380295	Animalia	Chordata	Aves	Gruiformes	Gruidae	Grus	vipio		Pallas, 1811	Grus vipio  Pallas, 1811	species
+380317	Animalia	Chordata	Aves	Passeriformes	Campephagidae	Coracina	macei	rexpineti	(Lesson, 1830)	Coracina macei rexpineti (Lesson, 1830)	subspecies
+380330	Animalia	Chordata	Aves	Passeriformes	Oriolidae	Oriolus	chinensis	diffusus	Linnaeus, 1766	Oriolus chinensis diffusus Linnaeus, 1766	subspecies
+380331	Animalia	Chordata	Aves	Passeriformes	Oriolidae	Oriolus	traillii	ardens	(Vigors, 1832)	Oriolus traillii ardens (Vigors, 1832)	subspecies
+380335	Animalia	Chordata	Aves	Passeriformes	Monarchidae	Terpsiphone	atrocaudata	atrocaudata	(Eyton, 1839)	Terpsiphone atrocaudata atrocaudata (Eyton, 1839)	subspecies
+380336	Animalia	Chordata	Aves	Passeriformes	Corvidae	Urocissa	caerulea		Gould, 1863	Urocissa caerulea  Gould, 1863	species
+380368	Animalia	Chordata	Aves	Passeriformes	Laniidae	Lanius	cristatus	cristatus	Linnaeus, 1758	Lanius cristatus cristatus Linnaeus, 1758	subspecies
+380375	Animalia	Chordata	Aves	Passeriformes	Muscicapidae	Enicurus	scouleri	fortis	Vigors, 1832	Enicurus scouleri fortis Vigors, 1832	subspecies
+380392	Animalia	Chordata	Aves	Passeriformes	Muscicapidae	Niltava	vivida		(Swinhoe, 1864)	Niltava vivida  (Swinhoe, 1864)	species
+380408	Animalia	Chordata	Aves	Passeriformes	Turdidae	Turdus	poliocephalus	niveiceps	Latham, 1802	Turdus poliocephalus niveiceps Latham, 1802	subspecies
+380414	Animalia	Chordata	Aves	Passeriformes	Paridae	Parus	holsti		Seebohm, 1894	Parus holsti  Seebohm, 1894	species
+380416	Animalia	Chordata	Aves	Passeriformes	Paridae	Parus	monticolus	insperatus	Vigors, 1831	Parus monticolus insperatus Vigors, 1831	subspecies
+380434	Animalia	Chordata	Aves	Passeriformes	Passeridae	Passer	rutilans	rutilans	(Temminck, 1835)	Passer rutilans rutilans (Temminck, 1835)	subspecies
+380436	Animalia	Chordata	Aves	Passeriformes	Pittidae	Pitta	nympha		Temminck & Schlegel, 1850	Pitta nympha  Temminck & Schlegel, 1850	species
+380440	Animalia	Chordata	Aves	Passeriformes	Pycnonotidae	Pycnonotus	taivanus		Styan, 1893	Pycnonotus taivanus  Styan, 1893	species
+380442	Animalia	Chordata	Aves	Passeriformes	Reguliidae	Regulus	goodfellowi		Ogilvie-Grant, 1906	Regulus goodfellowi  Ogilvie-Grant, 1906	species
+380445	Animalia	Chordata	Aves	Passeriformes	Sturnidae	Acridotheres	cristatellus	formosanus	(Linnaeus, 1766)	Acridotheres cristatellus formosanus (Linnaeus, 1766)	subspecies
+380455	Animalia	Chordata	Aves	Passeriformes	Timaliidae	Actinodura	morrisoniana		Ogilvie-Grant, 1906	Actinodura morrisoniana  Ogilvie-Grant, 1906	species
+380463	Animalia	Chordata	Aves	Passeriformes	Timaliidae	Garrulax	albogularis	ruficeps	(Gould, 1836)	Garrulax albogularis ruficeps (Gould, 1836)	subspecies
+380466	Animalia	Chordata	Aves	Passeriformes	Timaliidae	Garrulax	poecilorhynchus	poecilorhynchus	Gould, 1863	Garrulax poecilorhynchus poecilorhynchus Gould, 1863	subspecies
+380492	Animalia	Chordata	Aves	Piciformes	Picidae	Dendrocopos	leucotos	insularis	(Bechstein, 1802)	Dendrocopos leucotos insularis (Bechstein, 1802)	subspecies
+380494	Animalia	Chordata	Aves	Piciformes	Picidae	Picus	canus	tancolo	Gmelin, 1788	Picus canus tancolo Gmelin, 1788	subspecies
+380497	Animalia	Chordata	Aves	Strigiformes	Strigidae	Asio	flammeus	flammeus	(Pontoppidan, 1763)	Asio flammeus flammeus (Pontoppidan, 1763)	subspecies
+380498	Animalia	Chordata	Aves	Strigiformes	Strigidae	Asio	otus	otus	(Linnaeus, 1758)	Asio otus otus (Linnaeus, 1758)	subspecies
+380499	Animalia	Chordata	Aves	Strigiformes	Strigidae	Glaucidium	brodiei	pardalotum	(Burton, 1836)	Glaucidium brodiei pardalotum (Burton, 1836)	subspecies
+380500	Animalia	Chordata	Aves	Strigiformes	Strigidae	Ketupa	flavipes		(Hodgson, 1836)	Ketupa flavipes  (Hodgson, 1836)	species
+380501	Animalia	Chordata	Aves	Strigiformes	Strigidae	Ninox	scutulata	totogo	(Raffles, 1822)	Ninox scutulata totogo (Raffles, 1822)	subspecies
+380502	Animalia	Chordata	Aves	Strigiformes	Strigidae	Otus	bakkamoena	glabripes	Pennant, 1769	Otus bakkamoena glabripes Pennant, 1769	subspecies
+380503	Animalia	Chordata	Aves	Strigiformes	Strigidae	Otus	elegans	botelensis	(Cassin, 1852)	Otus elegans botelensis (Cassin, 1852)	subspecies
+380505	Animalia	Chordata	Aves	Strigiformes	Strigidae	Otus	spilocephalus	hambroecki	(Blyth, 1846)	Otus spilocephalus hambroecki (Blyth, 1846)	subspecies
+380506	Animalia	Chordata	Aves	Strigiformes	Strigidae	Strix	aluco	yamadae	Linnaeus, 1758	Strix aluco yamadae Linnaeus, 1758	subspecies
+380507	Animalia	Chordata	Aves	Strigiformes	Strigidae	Strix	leptogrammica	caligata	Temminck, 1832	Strix leptogrammica caligata Temminck, 1832	subspecies
+380515	Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	Muntiacus	reevesi	micrurus	(Sclater, 1875)	Muntiacus reevesi micrurus (Sclater, 1875)	subspecies
+380518	Animalia	Chordata	Mammalia	Carnivora	Felidae	Neofelis	nebulosa	brachyura	Swinhoe, 1862	Neofelis nebulosa brachyura Swinhoe, 1862	subspecies
+380520	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Lutra	lutra		(Linnaeus, 1758)	Lutra lutra  (Linnaeus, 1758)	species
+380521	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Martes	flavigula	chrysospila	Swinhoe, 1866	Martes flavigula chrysospila Swinhoe, 1866	subspecies
+380523	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Mustela	formosanus		(Lin & Harada, 1997)	Mustela formosanus  (Lin & Harada, 1997)	species
+380525	Animalia	Chordata	Mammalia	Carnivora	Ursidae	Ursus	thibetanus	formosanus	Swinhoe, 1864	Ursus thibetanus formosanus Swinhoe, 1864	subspecies
+380526	Animalia	Chordata	Mammalia	Carnivora	Viverridae	Paguma	larvata	taivana	Swinhoe, 1862	Paguma larvata taivana Swinhoe, 1862	subspecies
+380527	Animalia	Chordata	Mammalia	Carnivora	Viverridae	Viverricula	indica	taivana	(Schwarz, 1911)	Viverricula indica taivana (Schwarz, 1911)	subspecies
+380528	Animalia	Chordata	Mammalia	Cetacea	Balaenopteridae	Balaenoptera	acutorostrata		Lacepede, 1804	Balaenoptera acutorostrata  Lacepede, 1804	species
+380529	Animalia	Chordata	Mammalia	Cetacea	Balaenopteridae	Balaenoptera	borealis		Lesson, 1828	Balaenoptera borealis  Lesson, 1828	species
+380530	Animalia	Chordata	Mammalia	Cetacea	Balaenopteridae	Balaenoptera	edeni		Anderson, 1879	Balaenoptera edeni  Anderson, 1879	species
+380531	Animalia	Chordata	Mammalia	Cetacea	Balaenopteridae	Balaenoptera	physalus		Linnaeus, 1758	Balaenoptera physalus  Linnaeus, 1758	species
+380532	Animalia	Chordata	Mammalia	Cetacea	Balaenopteridae	Megaptera	novaeangliae		Gray	Megaptera novaeangliae  Gray	species
+380534	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Feresa	attenuata		Gray, 1874	Feresa attenuata  Gray, 1874	species
+380535	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Globicephala	macrorhynchus		Gray, 1846	Globicephala macrorhynchus  Gray, 1846	species
+380536	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Grampus	griseus		G. Cuvier, 1812	Grampus griseus  G. Cuvier, 1812	species
+380537	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Lagenodelphis	hosei		Fraser, 1956	Lagenodelphis hosei  Fraser, 1956	species
+380538	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Orcinus	orca		Linnaeus, 1758	Orcinus orca  Linnaeus, 1758	species
+380539	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Peponocephala	electra		Gray, 1846	Peponocephala electra  Gray, 1846	species
+380540	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Pseudorca	crassidens		Owen, 1846	Pseudorca crassidens  Owen, 1846	species
+380541	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Sousa	chinensis		Osbeck, 1765	Sousa chinensis  Osbeck, 1765	species
+380542	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Stenella	attenuata		Gray, 1846	Stenella attenuata  Gray, 1846	species
+380543	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Stenella	coeruleoalba		Meyen, 1833	Stenella coeruleoalba  Meyen, 1833	species
+380544	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Stenella	longirostris		Gray, 1828	Stenella longirostris  Gray, 1828	species
+380545	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Steno	bredanensis		G. Cuvier in Lesson, 1828	Steno bredanensis  G. Cuvier in Lesson, 1828	species
+380546	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Tursiops	aduncus		Ehrenberg, 1833	Tursiops aduncus  Ehrenberg, 1833	species
+380547	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Tursiops	truncatus		Montagu, 1821	Tursiops truncatus  Montagu, 1821	species
+380548	Animalia	Chordata	Mammalia	Cetacea	Eschrichtiidae	Eschrichtius	robustus		Gray, 1864	Eschrichtius robustus  Gray, 1864	species
+380549	Animalia	Chordata	Mammalia	Cetacea	Kogiidae	Kogia	breviceps		Blainville, 1838	Kogia breviceps  Blainville, 1838	species
+380550	Animalia	Chordata	Mammalia	Cetacea	Kogiidae	Kogia	sima		Owen, 1866	Kogia sima  Owen, 1866	species
+380551	Animalia	Chordata	Mammalia	Cetacea	Phocoenidae	Neophocaena	phocaenoides		G. Cuvier, 1829	Neophocaena phocaenoides  G. Cuvier, 1829	species
+380552	Animalia	Chordata	Mammalia	Cetacea	Physeteridae	Physeter	macrocephalus		Linnaeus, 1758	Physeter macrocephalus  Linnaeus, 1758	species
+380554	Animalia	Chordata	Mammalia	Cetacea	Ziphiidae	Mesoplodon	densirostris		Blainville, 1817	Mesoplodon densirostris  Blainville, 1817	species
+380555	Animalia	Chordata	Mammalia	Cetacea	Ziphiidae	Mesoplodon	ginkgodens		Nishiwaki & Kamiya, 1958	Mesoplodon ginkgodens  Nishiwaki & Kamiya, 1958	species
+380556	Animalia	Chordata	Mammalia	Cetacea	Ziphiidae	Ziphius	cavirostris		Cuvier	Ziphius cavirostris  Cuvier	species
+380557	Animalia	Chordata	Mammalia	Chiroptera	Hipposideridae	Coelops	frithii	formosanus	Horikawa, 1928	Coelops frithii formosanus Horikawa, 1928	subspecies
+380560	Animalia	Chordata	Mammalia	Chiroptera	Pteropodidae	Pteropus	dasymallus	formosus	(Sclater, 1873)	Pteropus dasymallus formosus (Sclater, 1873)	subspecies
+380580	Animalia	Chordata	Mammalia	Insectivora	Soricidae	Chimarrogale	himalayica		(Gray, 1842)	Chimarrogale himalayica  (Gray, 1842)	species
+380589	Animalia	Chordata	Mammalia	Pholidota	Manidae	Manis	pentadactyla	pentadactyla	Linnaeus, 1758	Manis pentadactyla pentadactyla Linnaeus, 1758	subspecies
+380590	Animalia	Chordata	Mammalia	Primate	Cercopithecidae	Macaca	cyclopis		(Swinhoe, 1863)	Macaca cyclopis  (Swinhoe, 1863)	species
+380610	Animalia	Chordata	Reptilia	Testudines	Geoemydidae	Chinemys	reevesii		Gray, 1831	Chinemys reevesii  Gray, 1831	species
+380611	Animalia	Chordata	Reptilia	Testudines	Geoemydidae	Cuora	flavomarginata		Gray, 1863	Cuora flavomarginata  Gray, 1863	species
+380612	Animalia	Chordata	Reptilia	Testudines	Geoemydidae	Mauremys	mutica		Cantor, 1842	Mauremys mutica  Cantor, 1842	species
+380614	Animalia	Chordata	Reptilia	Testudines	Cheloniidae	Caretta	caretta		Linnaeus, 1758	Caretta caretta  Linnaeus, 1758	species
+380615	Animalia	Chordata	Reptilia	Testudines	Cheloniidae	Chelonia	mydas		Gray, 1831	Chelonia mydas  Gray, 1831	species
+380616	Animalia	Chordata	Reptilia	Testudines	Cheloniidae	Eretmochelys	imbricata		Conant, 1991	Eretmochelys imbricata  Conant, 1991	species
+380617	Animalia	Chordata	Reptilia	Testudines	Cheloniidae	Lepidochelys	olivacea		Eschscholtz, 1829	Lepidochelys olivacea  Eschscholtz, 1829	species
+380618	Animalia	Chordata	Reptilia	Testudines	Dermochelidae	Dermochelys	coriacea		Vandelli, 1761	Dermochelys coriacea  Vandelli, 1761	species
+380621	Animalia	Chordata	Reptilia	Squamata	Agamidae	Japalura	brevipes		Gressitt, 1936	Japalura brevipes  Gressitt, 1936	species
+380622	Animalia	Chordata	Reptilia	Squamata	Agamidae	Japalura	luei		Ota, Chen & Shang, 1998	Japalura luei  Ota, Chen & Shang, 1998	species
+380623	Animalia	Chordata	Reptilia	Squamata	Agamidae	Japalura	makii		Ota, 1989	Japalura makii  Ota, 1989	species
+380627	Animalia	Chordata	Reptilia	Squamata	Anguidae	Ophisaurus	harti		Boulenger, 1899	Ophisaurus harti  Boulenger, 1899	species
+380630	Animalia	Chordata	Reptilia	Squamata	Colubridae	Amphiesma	miyajimae		Maki, 1931	Amphiesma miyajimae  Maki, 1931	species
+380639	Animalia	Chordata	Reptilia	Squamata	Colubridae	Elaphe	mandarinus		Stejneger, 1925	Elaphe mandarinus  Stejneger, 1925	species
+380641	Animalia	Chordata	Reptilia	Squamata	Colubridae	Elaphe	taeniura		Smith, 1943	Elaphe taeniura  Smith, 1943	species
+380642	Animalia	Chordata	Reptilia	Squamata	Colubridae	Enhydris	chinensis		Gray, 1842	Enhydris chinensis  Gray, 1842	species
+380643	Animalia	Chordata	Reptilia	Squamata	Colubridae	Enhydris	plumbea		Boie, 1827	Enhydris plumbea  Boie, 1827	species
+380654	Animalia	Chordata	Reptilia	Squamata	Colubridae	Rhabdophis	swinhonis		Günther, 1868	Rhabdophis swinhonis  Günther, 1868	species
+380655	Animalia	Chordata	Reptilia	Squamata	Colubridae	Rhabdophis	tigrinus		Boie, 1826	Rhabdophis tigrinus  Boie, 1826	species
+380657	Animalia	Chordata	Reptilia	Squamata	Colubridae	Sinonatrix	annularis		Hallowell, 1856	Sinonatrix annularis  Hallowell, 1856	species
+380661	Animalia	Chordata	Reptilia	Squamata	Elapidae	Bungarus	multicinctus		Blyth, 1861	Bungarus multicinctus  Blyth, 1861	species
+380664	Animalia	Chordata	Reptilia	Squamata	Elapidae	Naja	atra		Wüster, 1991	Naja atra  Wüster, 1991	species
+380667	Animalia	Chordata	Reptilia	Squamata	Gekkonidae	Gekko	kikuchii		Oshima, 1912	Gekko kikuchii  Oshima, 1912	species
+380674	Animalia	Chordata	Reptilia	Squamata	Gekkonidae	Lepidodactylus	yami		Ota, 1987	Lepidodactylus yami  Ota, 1987	species
+380686	Animalia	Chordata	Reptilia	Squamata	Lacertidae	Takydromus	sauteri		Van Denburgh, 1909	Takydromus sauteri  Van Denburgh, 1909	species
+380702	Animalia	Chordata	Reptilia	Squamata	Viperidae	Deinagkistrodon	acutus		Günther, 1888	Deinagkistrodon acutus  Günther, 1888	species
+380703	Animalia	Chordata	Reptilia	Squamata	Viperidae	Ovophis	monticola		Günther, 1864	Ovophis monticola  Günther, 1864	species
+380704	Animalia	Chordata	Reptilia	Squamata	Viperidae	Trimeresurus	gracilis		Oshima, 1920	Trimeresurus gracilis  Oshima, 1920	species
+380705	Animalia	Chordata	Reptilia	Squamata	Viperidae	Trimeresurus	mucrosquamatus		Günther, 1864	Trimeresurus mucrosquamatus  Günther, 1864	species
+380707	Animalia	Chordata	Reptilia	Squamata	Viperidae	Vipera	russellii		Strauch, 1869	Vipera russellii  Strauch, 1869	species
+380992	Animalia	Chordata	Actinopterygii	Cypriniformes	Balitoridae	Hemimyzon	taitungensis		Tzeng & Shen, 1981	Hemimyzon taitungensis  Tzeng & Shen, 1981	species
+380993	Animalia	Chordata	Actinopterygii	Cypriniformes	Balitoridae	Sinogastromyzon	puliensis		Liang, 1974	Sinogastromyzon puliensis  Liang, 1974	species
+381020	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	Pararasbora	moltrechti		Regan, 1908	Pararasbora moltrechti  Regan, 1908	species
+381023	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	Metzia	formosae		(Oshima, 1920)	Metzia formosae  (Oshima, 1920)	species
+381024	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	Metzia	mesembrinum		(Jordan & Evermann, 1902)	Metzia mesembrinum  (Jordan & Evermann, 1902)	species
+381028	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	Squalidus	iijimae		Oshima, 1919	Squalidus iijimae  Oshima, 1919	species
+382788	Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	Oncorhynchus	masou formosanus		(Jordan & Oshima, 1919)	Oncorhynchus masou formosanus  (Jordan & Oshima, 1919)	species
+382917	Animalia	Chordata	Actinopterygii	Siluriformes	Amblycipitidae	Liobagrus	formosanus		Regan, 1908	Liobagrus formosanus  Regan, 1908	species
+383544	Animalia	Chordata	Actinopterygii	Cypriniformes	Balitoridae	Sinogastromyzon	nantaiensis		Chen, Han & Fang, 2003	Sinogastromyzon nantaiensis  Chen, Han & Fang, 2003	species
+385000	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Delphinus	delphis		Linnaeus, 1758	Delphinus delphis  Linnaeus, 1758	species
+385001	Animalia	Chordata	Mammalia	Cetacea	Balaenopteridae	Balaenoptera	omurai		Wada, Oishi & Yamada, 2003	Balaenoptera omurai  Wada, Oishi & Yamada, 2003	species
+385002	Animalia	Chordata	Mammalia	Cetacea	Balaenopteridae	Balaenoptera	musculus		(Linnaeus,1758)	Balaenoptera musculus  (Linnaeus,1758)	species
+385003	Animalia	Chordata	Mammalia	Cetacea	Balaenopteridae	Balaenoptera	brydei		Olsen, 1912	Balaenoptera brydei  Olsen, 1912	species
+385010	Animalia	Chordata	Aves	Ciconiiformes	Laridae	Sterna	bernsteini		Schlegel, 1863	Sterna bernsteini  Schlegel, 1863	species
+395247	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	Squalidus	banarescui		Chen & Chang, 2007	Squalidus banarescui  Chen & Chang, 2007	species
+402472	Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae	Aeolesthes	oenochrous		(Fairmaire, 1889)	Aeolesthes oenochrous  (Fairmaire, 1889)	species
+404411	Animalia	Arthropoda	Insecta	Orthoptera	Tettigoniidae	Phyllophorina	kotoshoensis		Shiraki, 1930	Phyllophorina kotoshoensis  Shiraki, 1930	species
+404547	Animalia	Chordata	Aves	Strigiformes	Strigidae	Athene	noctua	plumipes	(Scopoli, 1769)	Athene noctua plumipes (Scopoli, 1769)	subspecies
+404548	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Aviceda	leuphotes	syama	(Dumont, 1820)	Aviceda leuphotes syama (Dumont, 1820)	subspecies
+404551	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Buteo	hemilasius		Temminck & Schlegel, 1844	Buteo hemilasius  Temminck & Schlegel, 1844	species
+404565	Animalia	Chordata	Aves	Ciconiiformes	Ciconiidae	Ciconia	boyciana		Swinhoe, 1873	Ciconia boyciana  Swinhoe, 1873	species
+404578	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Elanus	caeruleus	vociferus	(Desfontaines, 1789)	Elanus caeruleus vociferus (Desfontaines, 1789)	subspecies
+404581	Animalia	Chordata	Aves	Passeriformes	Emberizidae	Emberiza	sulphurata		Temminck & Schlegel, 1848	Emberiza sulphurata  Temminck & Schlegel, 1848	species
+404587	Animalia	Chordata	Aves	Ciconiiformes	Falconidae	Falco	amurensis		Radde, 1863	Falco amurensis  Radde, 1863	species
+404588	Animalia	Chordata	Aves	Ciconiiformes	Falconidae	Falco	naumanni		Fleischer, 1818	Falco naumanni  Fleischer, 1818	species
+404589	Animalia	Chordata	Aves	Passeriformes	Timaliidae	Garrulax	taewanus		Swinhoe, 1859	Garrulax taewanus  Swinhoe, 1859	species
+404590	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Haliastur	indus	intermedius	(Boddaert, 1783)	Haliastur indus intermedius (Boddaert, 1783)	subspecies
+404610	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Milvus	migrans	formosanus	(Boddaert, 1783)	Milvus migrans formosanus (Boddaert, 1783)	subspecies
+404622	Animalia	Chordata	Aves	Strigiformes	Strigidae	Otus	sunia	japonicus	(Hodgson, 1836)	Otus sunia japonicus (Hodgson, 1836)	subspecies
+404624	Animalia	Chordata	Aves	Ciconiiformes	Pelecanidae	Pelecanus	crispus		Bruch, 1832	Pelecanus crispus  Bruch, 1832	species
+404628	Animalia	Chordata	Aves	Ciconiiformes	Accipitridae	Pernis	ptilorhynchus	orientalis	(Temminck, 1821)	Pernis ptilorhynchus orientalis (Temminck, 1821)	subspecies
+404630	Animalia	Chordata	Aves	Ciconiiformes	Diomedeidae	Phoebastria	albatrus		(Pallas, 1769)	Phoebastria albatrus  (Pallas, 1769)	species
+404632	Animalia	Chordata	Aves	Ciconiiformes	Diomedeidae	Phoebastria	nigripes		(Audubon, 1839)	Phoebastria nigripes  (Audubon, 1839)	species
+404634	Animalia	Chordata	Aves	Passeriformes	Sylviidae	Phylloscopus	ijimae		(Stejneger, 1892)	Phylloscopus ijimae  (Stejneger, 1892)	species
+404650	Animalia	Chordata	Aves	Passeriformes	Muscicapidae	Rhyacornis	fuliginosa	affinis	(Vigors, 1831)	Rhyacornis fuliginosa affinis (Vigors, 1831)	subspecies
+404671	Animalia	Chordata	Aves	Strigiformes	Tytonidae	Tyto	capensis	pithecops	(A. Smith, 1834)	Tyto capensis pithecops (A. Smith, 1834)	subspecies
+413087	Animalia	Chordata	Amphibia	Caudata	Hynobiidae	Hynobius	fuca		Lai and Lue, 2008	Hynobius fuca  Lai and Lue, 2008	species
+413088	Animalia	Chordata	Amphibia	Caudata	Hynobiidae	Hynobius	glacialis		Lai and Lue, 2008	Hynobius glacialis  Lai and Lue, 2008	species

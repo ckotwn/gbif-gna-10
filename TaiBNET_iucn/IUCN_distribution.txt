@@ -1,0 +1,90 @@
+name_code	distribution	iucn_code
+380992	Endemic to eastern portion of Central Mountain Range (CMR) of Taiwan. Presently known from branches at high elevation of Hualien River, Hsiukuluan River and Peinan River.	VU
+380993	Endemic to western Taiwan, found in Tachia River, Tatu River, Choshui River, Tsengwen River and Kaoping River.	VU
+381097	Distributed in the Indo-Pacific from Red Sea and South Africa to Marquesan and Society Islands, north to southern Japan, south to Australia and Lord Howe Island; throughout Micronesia. It is found in northeastern and western Taiwanese waters.	DD
+381098	Distributed in the Indo-West Pacific from Gulf of Manaar, Indian Ocean to Gulf of Thailand and South China Sea, along the coast of southern China and Taiwan, extending as far north as Suruga Bay, Japan. It is found in northeastern and western Taiwanese wa	VU
+381099	Distributed in the Indo-West Pacific from Delagoa Bay, Mozambique to Saudi Arabia (Persian Gulf) and throughout Gulf of Manaar to Bay of Bengal; along the east coast of Myanmar; north to Japan, south to tropical Australia and Papua New Guinea.  It is foun	VU
+381107	Distributed from Red Sea and East Africa to Samoa, north to southern Japan, south to northern Australia; throughout Micronesia. It is found in southern and eastern Taiwanese waters; and Siao Liouciou, southwestern Taiwan.	DD
+381117	Distributed in the Indo-Pacific from Tanzania and South Africa to Hawaii and Tahiti, north to Japan, south to New Caledonia. Reported from the Arafura Sea. It is found in southern Taiwanese waters.	DD
+381118	Distributed in the Indo-Pacific from Pakistan and India to southern Japan, Hawaii, and the Society Islands. It is mainly found in northern and southern Taiwanese waters.	VU
+381119	Distributed in the Indo-Pacific from southern India to Japan, Australia and Tahiti. It is a common species in Taiwan except eastern part.	VU
+381120	Distributed in the Indo-Pacific from southern India to Japan, Australia and Tahiti. It is a common species in Taiwan except eastern part.	VU
+381126	Western Indian Ocean: Mauritius. Western Pacific: South China Sea north to southern Japan, south to northern Australia. It is found in southwestern Taiwanese waters.	VU
+381127	Distributed in the Indo-Pacific feom Red Sea south to South Africa, east to Samoa, north to southern Japan, south to New South Wales; throughout Micronesia except the northern Marshall Islands Southeast Atlantic: Knysna, South Africa. It is found in south	DD
+381907	Distributed in Taiwan, Philippines and Indonesia to islands in the Pacific. It is commonly found in Taiwan.	LR/lc
+382500	Cosmopolitan in tropical and temperate waters of all oceans including the Mediterranean Sea, extending north to 45 to 50°N and south to 30 to 40°S but not at the surface between l0°N and 10°S. It is a very common species in Taiwan, especially in eastern a	DD
+382501	Worldwide in tropical and subtropical seas, but absent from the Mediterranean Sea. It is a very common species in Taiwan, especially in eastern and southern part.	LR/lc
+382502	Cosmopolitan in tropical and temperate waters of all oceans, but absent in the Mediterranean; a common species in Taiwan, especially in eastern and southern part.	VU
+382513	<i>C. boenak<i/> is primarily continental in its distribution, occurring from Kenya to southern Mozambique and eastward to the western Pacific (Ryukyu Islands Taiwan, China, Philippines, Indonesia, Papua New Guinea, New Caledonia, and eastern Australia).	DD
+382524	Western Pacific: southern Japan to Palau, Guam, New Caledonia and southern Queensland, Australia. Eastern Indian Ocean: Nicobar Islands to Broome, Western Australia. Reports from western Indian Ocean (Heemstra and Randall 1984, 1986), are unsubstantiated,	DD
+382526	Western Pacific: from southern China, Taiwan, East China Sea, Korea, and southern Japan.	EN
+382535	Indo-West Pacific: Red Sea south to at least Durban, South Africa and eastward to Palau and Fiji, north to the Ryukyu Islands, south to the Arafura Sea (Ref. 9819) and Australia. Recently reported from the Mediterranean coast of Israel.	NT
+382541	Widely distributed in the Indo-Pacific region, including the Red Sea, but not known from the Persian Gulf, Hawaii, or French olynesia.	NT
+382543	Indo-Pacific: Red Sea to Algoa Bay, South Africa and eastward to the Hawaiian and Pitcairn islands, north to southern Japan, south to Australia. Absence in the Persian Gulf is puzzling.	VU
+382586	Western Pacific: Taiwan to Celebes, Indonesia and Western Australia.	VU
+382589	Western Pacific, from southern Japan to Australia (Queensland and Western Australia) and eastward to the Caroline Islands and Fiji. We have also examined specimens from Hong Kong, Viet Nam, Philippines, Indonesia, Palau Islands, Papua New Guinea, and New	NT
+382692	The swordfish is highly migratory species, cosmopolitan in tropical, temperate and sometimes cold waters of all oceans, including the Mediterranean Sea, the Sea of Marmara, the Black Sea, and the Sea of Azov. Mt DNA restriction analysis reveal that geneti	EN
+382788	Endemic to Tachia River of middle Taiwan, found in elevation higher 1500m and water temperature lower than 15oC.	CR
+383068	Indian Ocean including Madagascar, Mauritius, Seychelles, India. Western central Pacific including Singapore, Thailand, Viet Nam, China, Taiwan, The Philippines, Indonesia, New Guinea, Australia, Hawaiian Islands.	LR/nt
+383069	Western Atlantic including Mexico, Gulf of Mexico, southern Brazil to Argentina. Eastern Atlantic including Mediterranean Sea, off France and Algeria, Morocco, Mauritania, Canary Islands, Guinea, Namibia to South Africa. Western Indian Ocean including Sou	VU
+383070	Western Atlantic including northern Carolina to Florida, Bahamas, Cuba, northern Gulf of Mexico, British Guiana, southern Brazil. Eastern Atlantic including Mediterranean, Cape Verde Islands, Senegal, Guinea and Sierra Leone, Togo and Nigeria, Angola. Ind	LR/nt
+383071	Indo-West Pacific including The Gulf and Arabian Sea between Gulf of Oman and Pakistan, India, Singapore, Malaysia, Java, Thailand, Borneo, Viet Nam, China, Japan, Taiwan.	NT
+383072	Oceanic and coastal, Circumtropical. Western, eastern and central Atlantic. Indian Ocean. Red Sea. Western, eastern and central Pacific. In Taiwan, this species can be found in northeastern and eastern waters.	LR/lc
+383073	Wide distribute along the continental coasts of all tropical and subtropical seas and sometimes traveling far up warm rivers and into freshwater lakes. In Taiwan, this species were caught by longliner from northeastern and eastern waters uncommonly.	LR/nt
+383074	Western Atlantic from Massachusetts to southern Brazil including Gulf of Mexico and Caribbean. Eastern Atlantic including Madeira, Mediterranean, Canary Islands, Senegal to Zaire. Indo-West Pacific including South Africa, Madagascar, and Red Sea to India,	VU
+383075	This species primarily distributed in tropical and warm-temperate oceanic maters including Atlantic ocean, Indian Ocean, Red Sea, Pacific Ocean.	LR/nt
+383076	Indo-West Pacific including Kenya, Tanzania, Pakistan, India, Andaman Sea, Burma, Viet Nam, China, Taiwan, New Guinea.	NT
+383077	Eastern Mediterranean Sea. Indian Ocean including South Africa, Mauritius, Seychelles, and Madagascar to Red Sea, the Gulf, Pakistan, India, Sri Lanka, Andaman, and Maldive Islands. Western Pacific from Thailand to China, including Japan, Taiwan, The Phil	LR/nt
+383078	Western Atlantic including southern Massachusetts and George Bank to Florida, Bahamas, Cuba, north Gulf of Mexico, and Nicaragua. Eastern north Atlantic including Canary and Cape Verde Islands, Senegal, Sierra Leone. Western Indian Ocean including South A	LR/nt
+383079	Western Atlantic including southern Massachusetts to Florida, northern and western Gulf of Mexico, Bahamas, Cuba, Nicaragua, Costa Rica, Venezuela, southern Brazil. Eastern Atlantic including Mediterranean Sea, Portugal, Morocco, Senegal, Cape Verde Islan	LR/nt
+383081	Western Atlantic including Gulf of Mexico, Caribbean islands. Eastern North Atlantic including Iceland, UK, Morocco,  Canary Islands, Senegal, Gambia, Guinea, Ivory Coast, Ghana. Indo-West Pacific from south Africa north to the Red Sea and east to Pakista	LR/nt
+383082	Indo-West Pacific including Hooghly River, Ganges system, West Bengal, India, Pakistan.	CR
+383083	Indo-West Pacific including South Africa, Madagascar, Seychelles,  Red Sea, Sri Lanka, Indonesia, China, Taiwan, Japan, The Philippines, Australia.	LC
+383085	Western Atlantic from Newfoundland to Argentina. Central Atlantic. Eastern Atlantic from Norway to South Africa, Mediterranean. Indo-West Pacific from South Africa and southern Arabian Sea to Indonesia, Japan, Australia, New Caledonia and New Zealand. Cen	LR/nt
+383086	Eastern Atlantic from Madeira and Mauritania to Angola. Indo-West Pacific from South Africa and Red Sea to Pakistan, India,Malaysia, Indonesia, Thailand, China, Taiwan, Japan, the Philippines, Australia.	LC
+383087	Indo-West Pacific including Tanzania, Pakistan, India, Sri Lanka, Malaysia, Singapore, Thailand, Java, Borneo, China, Taiwan, Japan.	LR/nt
+383088	Western Atlantic from New Jersey to Brazil, including Gulf of Mexico and Caribbean. Eastern Atlantic from Senegal to Zaire. Indo-West Pacific from South Africa and Red Sea to Pakistan, India, Burma, Thailand, Indonesia, China, Taiwan, Japan, The Philippin	LR/nt
+383089	Western Atlantic from North Carolina to Brazil, including Gulf of Mexico and Caribbean. Eastern North Atlantic including Morocco, Senegal. Mediterranean. Indo-West Pacific from South Africa and Red Sea to India, Thailand, China, Taiwan, Riu Kyu Islands, A	DD
+383090	Western Atlantic from Scotia to Florida and Virgin Islands. Southern Brazil to southern Argentina. Eastern North Atlantic from Mediterranean and British Isles to Senegal, Cape Verde Islands, Guinea, and Ivory Coast. Western Indian Ocean including South Af	LR/nt
+383091	Indo-West and central Pacific from South Africa an Red Sea to Pakistan, India, Sri Lanka, Burma, Indonesia, Viet Nam, Taiwan, Riu Kiu Islands, The Philippines, Australia, New Guinea. Eastern Pacific from Cocos and Galapagos Islands, Panama to Costa Rica.	LR/nt
+383093	Indo-West Pacific including Southern India, Sri Lanka, Thailand, Singapore, Java, China, Taiwan, Philippines, and Australia.	LC
+383097	Western North Atlantic: New York to New Jersey. Eastern North Atlantic: Atlantic Slope off Iceland, France, Portugal, Madeira, Azores, Senegal, and Cape Verde Islands. Western Indian Ocean: Aldabra Islands group. Western Pacific: Japan and Taiwan Island.	DD
+383099	Western North Pacific: Japan (south eastern Honshu), and Taiwan.	DD
+383101	Indo-West Pacific: Pakistan and India to Malaya; Singapore, Indonesia, New Guinea, Thailand, Viet Nam, The Philippines, southern China, Taiwan.	NT
+383107	Distributed in coastal and inshore of western Indian Ocean and western north Pacific Ocean.	LR/nt
+383115	Western Pacific including Japan, Koreas, China, Taiwan, Viet Nam, Indonesia, Australia.	LC
+383116	Eastern Atlantic from northern Norway to the Atlantic Slope off northern Scotland and western Ireland, France, Spain, Portugal, Morocco, Mauritania, Madeira, Angola, northern Namibia. Western Indian Ocean off South Africa. Western Pacific off Japan, Taiwa	NT
+383117	Western Atlantic from USA to Cuba and northern Gulf of Mexico, also southern Brazil and Argentina. Eastern Atlantic from Morocco to Angola, also Mediterranean Sea. Indian Ocean including South Africa, southern Mozambique, Aldabra Island, southwestern Indi	NT
+383118	Western Atlantic from north Carolina to Florida, USA, northern Gulf of Mexico, Cuba, Nicaragua, Costa Rica, Venezuela, southern Brazil to northern Argentina. Eastern Atlantic from Iceland, Norway to Senegal. Indian Ocean including off South Africa, southe	LR/nt
+383120	Western South Atlantic from southern Brazil to northern Argentina. Eastern South Atlantic and Western Indian Ocean from Namibia, southern Africa to India. Western Pacific from southern Japan to the Koreas, China, Taiwan, Australia, and New Zealand. Easter	DD
+383123	Western Atlantic including Newfoundland to Cuba, Gulf of Mexico,  Venezuela, Brazil to Argentina. Eastern Atlantic including Norway and British Isles to Mediterranean, Morocco, Ghana and Ivory Coast, also Cape Province, South Africa. Indo-West Pacific inc	DD
+383124	Western North Atlantic, western South Atlantic, eastern North Atlantic, Arctic Ocean, Mediterranean Sea, western North Pacific, eastern North Pacific, and eastern South Pacific.	EN
+383125	Western Atlantic from Newfoundland to Florida, Bahamas, Cuba, northern Gulf of Mexico, Brazil and Argentina. Eastern Atlantic from France to Mediterranean, Madeira, Canary Island, Senegal, Ghana, Zaire. Western Indian Ocean including South Africa, Seychel	VU
+383126	Western Atlantic from Gulf of Marine to southern Brazil. Eastern Atlantic including Norway, British Isles and Mediterranean to Ivory Coast, Ghana, and South Africa. Indo-West Pacific including South Africa and Red Sea to Pakistan, India, Indonesia, the Ko	LR/nt
+383128	East and Northeast off Taiwan; wide-ranging in warm-temperate and tropical coastal waters of the Atlantic Ocean, Mediterranean Sea, and Indo-West Pacific Ocean; absent from the Central Pacific and eastern Pacific Oceans.	VU
+383129	Eastern Atlantic including southeast of Cape Verde Islands, between them and Guinea Bissau, Guinea, Angola, and south Africa. Western Indian Ocean in Mozambique Channel southwest of southern Madagascar. Western North Pacific including Japan, Taiwan and Ko	LR/nt
+383130	Indo-West and central Pacific including South Africa, Mauritius, Seychelles and Madagascar to Red Sea, India, Malaysia, Indonesia, Singapore, Thailand, Viet Nam, China, Taiwan, Papua New Guinea, Australia, New Caledonia, New Ireland, Samoa, Palau, Marshal	VU
+383131	Indo-West Pacific including India, Sri Lanka, Singapore, Thailand, Indonesia, Viet Nam, Taiwan, Philippines, Solomon Islands.	NT
+383133	Indo-West Pacific including India, Malaysia, Singapore, Thailand, Indonesia, Viet Nam, China, Taiwan, Japan, the Philippines, Australia.	NT
+383135	Western Pacific including Japan, South China Sea, Australia,	NT
+383137	Circumglobal in the tropical and warm temperate Pacific and Atlantic Oceans, oceanic and coastal.	VU
+383138	Indo-West Pacific from south Africa and Red Sea to Pakistan, India, Sri Lanka, Bangladesh, Indonesia, Thailand, Viet Nam, Kampuchea, the Philippines, China, Taiwan, Japan, Australia.	VU
+383160	Red Sea Arabia, Natal, Madagascar, Seychelles, India, Ceylon, Malay Peninsula, Pinang, Singapore, East Indies, Philippines, Cochin China, China, Queensland, New South Wales, Melanesia, Micronesia, Polynesia, Hawaiian group. Taiwan.	DD
+383164	India, Ceylon, Burma, Pinang Singapore, East Indies, Philippines, Cochin China, Japan, Australia, Victoria, Taiwan.	VU
+383165	Red Sea, Natal, South Africa, India, Malay Peninsula, East Indies, New South Wales, Melanesia, Polynesia, Hawaii, Taiwan. China.	DD
+383167	Japan, Taiwan.	NT
+383194	Red Sea, Arabia, Zanjibar, Madagascar, Natal, Seychelles, India, Ceylon, Andamans, Pinang, Malary Peninsula, Singapore, East Indies, Philippines, Cochinchina, Japan, Melanesia, Queensland, New South Wales, Taiwan.	VU
+383201	East and Northeast off Taiwan; Western Indian Ocean.	DD
+383202	East and Northeast off Taiwan.	NT
+383203	Irregularly distributed in the Eastern Atlantic, Western Indian Ocean, and Western Pacific (Taiwan, Japan, Philippines, southeastern Australia, and New Zealand).	VU
+383205	South and Northeast off Taiwan;  Eastern North Atlantic;  Western Pacific.	LC
+383206	North western Pacific from southeastern Japan to Taiwan waters.	DD
+383207	South and Northeast off Taiwan; Western North Atlantic; Eastern Atlantic; Western Mediterranean; Western Indian Ocean; Western Pacific; Central Pacific.	LR/nt
+383213	Soth, East and Northeast off Taiwan; Oceanic and circumtropical.	LC
+383215	South, East and Northeast off Taiwa; Oceanic and nearly circumtropical.	LC
+383216	Northeast off Taiwan; Tropical and temperate areas of the western and Central Pacific, also occurring in the eastern Pacific from Oregon to the Gulf of California and in Peru and Chile.	NT
+383217	East and Northeast off Taiwan; Western Pacific.	NT
+383220	South and Northeast off Taiwan; Eastern Atlantic and western Indian Ocean; Western Pacific. Possibly a species complex.	DD
+383221	Northeast off Taiwan; Western Pacific, Indian Ocean.	NT
+383413	Distributed in the northwest Pacific, including southern Korean, southern Japan and Taiwan. It is found in Penghu Is., western Taiwan.	DD
+383457	Western Atlantic including Guinea, Surinam, French Guyana. Eastern Atlantic including France (Bay of Biscay), Madeira, Portugal, Senegal, Gulf of Guinea, South Africa (Western Cape). Western Indian Ocean including South Africa and Mozambique. Western Paci	LC

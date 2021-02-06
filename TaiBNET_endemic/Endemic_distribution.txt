@@ -1,0 +1,46 @@
+name_code	distribution
+380739	Known only from the type locality, Nanwan, Kenting National Park, Hengchun, Ping-tung County, the southern-most County of Taiwan.
+380766	Northwest Pacific: From northern to eastern Taiwan and the Pescadore Islands.
+380799	"South-western of Taiwan.  "
+380813	Northeastern waters of Taiwan.
+380815	Northeastern of Taiwan Waters.
+380816	Indian, Pacific and Atlantic.
+380895	known only from the type specimens from Taiwan. It is found in Danshuei River, northern Taiwan.
+380906	Northwest Pacific: endemic to Taiwan
+380913	Northwest Pacific: Taiwan.
+380926	Northwest Pacific: Taiwan.
+380990	Endemic to rivers between Lanyang River and Choshui River that are located at eastern portion of Central Mountain Range (CMR) of Taiwan.
+380991	Endemic to western portion of Central Mountain Range (CMR) of Taiwan.
+380992	Endemic to eastern portion of Central Mountain Range (CMR) of Taiwan. Presently known from branches at high elevation of Hualien River, Hsiukuluan River and Peinan River.
+380993	Endemic to western Taiwan, found in Tachia River, Tatu River, Choshui River, Tsengwen River and Kaoping River.
+380997	Endemic to western portion of Taiwan, had been introduced to eastern portion.
+380998	Endemic to eastern and northern portion of Taiwan.
+381000	Endemic to western portion of Taiwan, had been introduced to eastern portion.
+381009	Endemic to Tatu River and Choshui River of middle Taiwan.
+381016	Endemic to western portion of Taiwan, can be found from Taan River to Kaoping River.
+381017	Endemic to western portion of Taiwan, can be found from Houlung River to Tanshui River.
+381020	Endemic to middle portion of western Taiwan, can be found only in Tachia River and Tatu River.
+381023	Endemic to Taiwan, can be found in some drainage of northern Taiwan.
+381024	Endemic to Taiwan, used to be found in some drainage of southwestern Taiwan.
+381027	Wildly distributed to southern Asia, from Vietnam to Taiwan, can be found in southeastern and eastern Taiwan.
+381028	Endemic to Taiwan, can be found only in middle reach of Tatu River.
+381031	Endemic to western portion of Taiwan, had been introduced to eastern portion. Some adverse impacts due to introductions had been reported.
+381048	"Japan and the northeastern coast of Taiwan in 400~600m. northeastern Taiwan, Tashi ; 24 54'63""N, 122 03'49""E "
+381056	"northeastern Taiwan, Tashi ; 24 54'63""N, 122 03'49""E."
+382220	Found in northeastern Taiwan.
+382584	Southwestern Taiwan
+382629	Known only found in northern Taiwan. This new species is known only from the holotype and one paratype from Taiwan, collected with two specimens of <i>Sillago parvisquamis</i>, and one specimen of <i>Sillago sihama</i>.
+382748	Northwest Pacific: Taiwan. Taiwan: West in Taiwan
+382767	Western Pacific: South China Sea. Taiwan: South, North-East, West.
+382788	Endemic to Tachia River of middle Taiwan, found in elevation higher 1500m and water temperature lower than 15oC.
+382792	Northwest Pacific: Taiwan.
+382853	Western Pacific: Taiwan.
+383136	Only distributed in Taiwan waters.
+383146	Taiwan, China.(Chen)
+383228	"Southwestern Taiwan. "
+383229	"Southwestern Taiwan at about 300 m; rarely seen. "
+383231	"North, northeastern, and southwestern Taiwan, below continental shelf at 276-619 m. "
+383233	East coast of Taiwan
+383460	Southwestern waters of Taiwan.
+383482	Taiwan waters.
+414088	India, Nepal, Myanmar, Borneo, Java (ssp. festivaria Fabricius); Japan (Ryukyu Is.) (ssp. manifesta Inoue); Philippines (Luzon) (ssp. temperata Prout); Taiwan (ssp. formosensis Inoue).

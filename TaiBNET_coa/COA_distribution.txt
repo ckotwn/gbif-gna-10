@@ -1,0 +1,8 @@
+name_code	distribution
+380992	Endemic to eastern portion of Central Mountain Range (CMR) of Taiwan. Presently known from branches at high elevation of Hualien River, Hsiukuluan River and Peinan River.
+380993	Endemic to western Taiwan, found in Tachia River, Tatu River, Choshui River, Tsengwen River and Kaoping River.
+381020	Endemic to middle portion of western Taiwan, can be found only in Tachia River and Tatu River.
+381023	Endemic to Taiwan, can be found in some drainage of northern Taiwan.
+381024	Endemic to Taiwan, used to be found in some drainage of southwestern Taiwan.
+381028	Endemic to Taiwan, can be found only in middle reach of Tatu River.
+382788	Endemic to Tachia River of middle Taiwan, found in elevation higher 1500m and water temperature lower than 15oC.
