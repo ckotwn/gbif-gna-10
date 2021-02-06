@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:dc="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd" packageId="86e2cb47-46df-4e40-ad76-cdc65a663bcf/v1.4" system="http://gbif.org" scope="system" xml:lang="eng">
+  <dataset>
+    <alternateIdentifier>86e2cb47-46df-4e40-ad76-cdc65a663bcf</alternateIdentifier>
+    <alternateIdentifier>https://ipt.taibif.tw/resource?r=taibnet_coa_wildlife_consev</alternateIdentifier>
+    <title xml:lang="eng">COA Wildlife Conservation List</title>
+    <creator>
+      <individualName>
+        <givenName>Sz-Yi</givenName>
+        <surName>Tsai</surName>
+      </individualName>
+      <organizationName>Biodiversity Research Center, Academia Sinica</organizationName>
+      <positionName>Database Administrator</positionName>
+      <address>
+        <deliveryPoint>128 Sec 2, Academia Rd., Nangang Dist.</deliveryPoint>
+        <city>Taipei</city>
+        <administrativeArea>TAIWAN</administrativeArea>
+        <postalCode>115</postalCode>
+        <country>TW</country>
+      </address>
+      <phone>+886 2 27872220 28</phone>
+      <electronicMailAddress>auszyi@gmail.com</electronicMailAddress>
+      <onlineUrl>http://taicol.tw</onlineUrl>
+    </creator>
+    <metadataProvider>
+      <individualName>
+        <givenName>Chihjen</givenName>
+        <surName>Ko</surName>
+      </individualName>
+      <address>
+        <deliveryPoint>176 Sec 2, Chunghwa Rd</deliveryPoint>
+        <city>Taitung City</city>
+        <administrativeArea>TAIWAN</administrativeArea>
+        <postalCode>950</postalCode>
+        <country>TW</country>
+      </address>
+      <phone>+886 905527800</phone>
+      <electronicMailAddress>ckotwn@gmail.com</electronicMailAddress>
+      <onlineUrl>https://orcid.org/0000-0001-5912-1761</onlineUrl>
+      <userId directory="http://orcid.org/">0000-0001-5912-1761</userId>
+    </metadataProvider>
+    <associatedParty>
+      <individualName>
+        <givenName>Kwang-Tsao</givenName>
+        <surName>Shao</surName>
+      </individualName>
+      <organizationName>Biodiversity Research Center, Academia Sinica</organizationName>
+      <positionName>Research Fellow</positionName>
+      <address>
+        <deliveryPoint>128 Sec 2, Academia Rd., Nangang Dist.</deliveryPoint>
+        <city>Taipei</city>
+        <administrativeArea>TAIWAN</administrativeArea>
+        <postalCode>115</postalCode>
+        <country>TW</country>
+      </address>
+      <phone>+886 932152991</phone>
+      <electronicMailAddress>zoskt@gate.sinica.edu.tw</electronicMailAddress>
+      <onlineUrl>http://taibnet.sinica.edu.tw</onlineUrl>
+      <role>principalInvestigator</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Kuo-Fang</givenName>
+        <surName>Chung</surName>
+      </individualName>
+      <organizationName>Biodiversity Research Center, Academia Sinica</organizationName>
+      <positionName>Associate Research Fellow</positionName>
+      <address>
+        <deliveryPoint>128 Sec 2, Academia Rd., Nangang Dist.</deliveryPoint>
+        <city>Taipei</city>
+        <administrativeArea>TAIWAN</administrativeArea>
+        <postalCode>115</postalCode>
+        <country>TW</country>
+      </address>
+      <electronicMailAddress>bochung@sinica.edu.tw</electronicMailAddress>
+      <onlineUrl>http://www.biodiv.tw/tw/&#x4EBA;&#x54E1;/&#x7814;&#x7A76;&#x4EBA;&#x54E1;/&#x937E;&#x570B;&#x82B3;</onlineUrl>
+      <role>principalInvestigator</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Chihjen</givenName>
+        <surName>Ko</surName>
+      </individualName>
+      <address>
+        <deliveryPoint>176 Sec 2, Chunghwa Rd</deliveryPoint>
+        <city>Taitung City</city>
+        <administrativeArea>TAIWAN</administrativeArea>
+        <postalCode>950</postalCode>
+        <country>TW</country>
+      </address>
+      <phone>+886 905527800</phone>
+      <electronicMailAddress>ckotwn@gmail.com</electronicMailAddress>
+      <onlineUrl>https://orcid.org/0000-0001-5912-1761</onlineUrl>
+      <userId directory="http://orcid.org/">0000-0001-5912-1761</userId>
+      <role>originator</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Kun-Chi</givenName>
+        <surName>Lai</surName>
+      </individualName>
+      <organizationName>Biodiversity Research Center, Academia Sinica</organizationName>
+      <positionName>Research Assistant</positionName>
+      <address>
+        <deliveryPoint>128 Sec 2, Academia Rd., Nangang Dist.</deliveryPoint>
+        <city>Taipei</city>
+        <administrativeArea>TAIWAN</administrativeArea>
+        <postalCode>115</postalCode>
+        <country>TW</country>
+      </address>
+      <phone>+886 2 27839161</phone>
+      <electronicMailAddress>east0122@gate.sinica.edu.tw</electronicMailAddress>
+      <onlineUrl>http://taibif.org.tw</onlineUrl>
+      <role>processor</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Jack</givenName>
+        <surName>Lin</surName>
+      </individualName>
+      <organizationName>Biodiversity Research Center, Academia Sinica</organizationName>
+      <positionName>Software Engineer</positionName>
+      <address>
+        <deliveryPoint>128 Sec 2, Academia Rd., Nangang Dist.</deliveryPoint>
+        <city>Taipei</city>
+        <postalCode>115</postalCode>
+        <country>TW</country>
+      </address>
+      <phone>+886 2 27899161</phone>
+      <electronicMailAddress>jacklin@gate.sinica.edu.tw</electronicMailAddress>
+      <onlineUrl>http://taibnet.sinica.edu.tw</onlineUrl>
+      <role>programmer</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Jason</givenName>
+        <surName>Mai</surName>
+      </individualName>
+      <organizationName>Biodiversity Research Center, Academia Sinica</organizationName>
+      <positionName>Software Developer</positionName>
+      <address>
+        <deliveryPoint>128 Sec 2, Academia Rd., Nangang Dist.</deliveryPoint>
+        <city>Taipei</city>
+        <country>TW</country>
+      </address>
+      <role>processor</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Szu-Hsien</givenName>
+        <surName>Lee</surName>
+      </individualName>
+      <organizationName>Biodiversity Research Center</organizationName>
+      <positionName>Developer</positionName>
+      <address>
+        <deliveryPoint>128 Sec 2, Academia Rd., Nangang Dist.</deliveryPoint>
+        <city>Taipei</city>
+        <country>TW</country>
+      </address>
+      <role>processor</role>
+    </associatedParty>
+    <pubDate>
+      2021-02-05
+  </pubDate>
+    <language>eng</language>
+    <abstract>
+      <para>Taiwan's unique geographical location and varied topography resulted in diverse fauna on this beautiful island. However, excessive land development and resource utilization have incessantly squeezed the space for the survival of wildlife. Wildlife conservation is not just a simple act of protection, it warrants reasonable and sustainable use of natural resources.
+
+The Wildlife Conservation Act, enacted by Council of Agriculture, Executive Yuan, is an important legal basis for wildlife management and habitat protection. Its purpose is to maintain species diversity and ecological balance. The government and related conservation organizations have designated 17 wildlife refuges. Not only are they the subject of academic researches, they are also the indicators of environmental quality. The checklist of Taiwan (TaiBNET) lists 232 endangered, rare, and other protected species of wildlife in Taiwan. The database also provides information on these species, such as their scientific names (including authors and years), common names, and synonyms. Through Taiwan Biodiversity Information Facility (TaiBIF), the information can be shared and exchanged with other GBIF participants. Users can use keywords to link to other websites with relevant information. All these efforts will result in the circulation of information in the fields of research, education and conservation, which in turn will arouse global attention to the protection of wildlife.</para>
+    </abstract>
+    <keywordSet>
+      <keyword>conservation</keyword>
+      <keyword>protected species</keyword>
+      <keyword>checklist</keyword>
+      <keyword>species</keyword>
+      <keyword>Catalogue of Life in Taiwan</keyword>
+      <keyword>TaiCoL</keyword>
+      <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+    </keywordSet>
+    <intellectualRights>
+      <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+    </intellectualRights>
+    <distribution scope="document">
+      <online>
+        <url function="information">http://taibnet.sinica.edu.tw/home_eng.php</url>
+      </online>
+    </distribution>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>Taiwan island and adjacent islets.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>117.97</westBoundingCoordinate>
+          <eastBoundingCoordinate>124.08</eastBoundingCoordinate>
+          <northBoundingCoordinate>26.77</northBoundingCoordinate>
+          <southBoundingCoordinate>20.77</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+    </coverage>
+    <maintenance>
+      <description>
+        <para/>
+      </description>
+      <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+    </maintenance>
+    <contact>
+      <individualName>
+        <givenName>Sz-Yi</givenName>
+        <surName>Tsai</surName>
+      </individualName>
+      <organizationName>Biodiversity Research Center, Academia Sinica</organizationName>
+      <positionName>Database Administrator</positionName>
+      <address>
+        <deliveryPoint>128 Sec 2, Academia Rd., Nangang Dist.</deliveryPoint>
+        <city>Taipei</city>
+        <administrativeArea>TAIWAN</administrativeArea>
+        <postalCode>115</postalCode>
+        <country>TW</country>
+      </address>
+      <phone>+886 2 27872220 28</phone>
+      <electronicMailAddress>auszyi@gmail.com</electronicMailAddress>
+      <onlineUrl>http://taicol.tw</onlineUrl>
+    </contact>
+    <project>
+      <title>Operation and Promotion "Catalogue of Life in Taiwan" Database - TaiCoL</title>
+      <personnel>
+        <individualName>
+          <givenName>Sz-Yi</givenName>
+          <surName>Tsai</surName>
+        </individualName>
+        <role>custodianSteward</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Yi-Hsiuan</givenName>
+          <surName>Lyh</surName>
+        </individualName>
+        <role>custodianSteward</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Hsian-Ying</givenName>
+          <surName>Li</surName>
+        </individualName>
+        <role>custodianSteward</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Han</givenName>
+          <surName>Lee</surName>
+        </individualName>
+        <role>custodianSteward</role>
+      </personnel>
+      <abstract>
+        <para>Names information at https://taicol.tw has been contributed by more than 870 experts since 2001. The project funds the data curation personnel and activities.</para>
+      </abstract>
+      <funding>
+        <para>1. Council of Agriculture (2001-)
+2. Ministry of Science and Technology (former National Science Council) (2004-2007)</para>
+      </funding>
+    </project>
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2011-08-11T03:21:01.854+08:00</dateStamp>
+        <hierarchyLevel>dataset</hierarchyLevel>
+        <resourceLogoUrl>http://taibif.tw/images/TaiBIF_small.jpg</resourceLogoUrl>
+        <dc:replaces>86e2cb47-46df-4e40-ad76-cdc65a663bcf/v1.4.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>
