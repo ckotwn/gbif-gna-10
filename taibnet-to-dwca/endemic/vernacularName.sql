@@ -5,5 +5,5 @@ FROM common_names c
 WHERE s.is_accepted_name = 1
   AND s.author IS NOT NULL
   AND s.is_endemic = 1
-  AND c.type_id = 1
+  AND c.type_id <> 3
 ORDER BY c.name_code;
